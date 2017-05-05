@@ -7,8 +7,9 @@
     "aws-sdk": "2.7.10",
     "bluebird": "3.4.7"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amulyakashyap09/dynamodb-copy-data.git"
   },
   "keywords": [
     "dynamodb",
