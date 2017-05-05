@@ -1,0 +1,21 @@
+{
+  "name": "dynamodb-copy-data",
+  "version": "1.0.0",
+  "description": "copies data from one dynamodb table to another in same region.",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "2.7.10",
+    "bluebird": "3.4.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dynamodb",
+    "copy-data-dynamodb",
+    "dynamodb-copy-data",
+    "bulk-copy"
+  ],
+  "author": "Amulya kashyap <amulyakashyap09@gmail.com>",
+  "license": "ISC"
+}
